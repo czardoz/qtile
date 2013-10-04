@@ -13,3 +13,8 @@ MANIFEST
 /docs/_build
 # some people hack on macs? :-)
 .DS_Store
+# Some people use pycharm
+.idea/
+# Packages
+*.egg
+*.egg-info
